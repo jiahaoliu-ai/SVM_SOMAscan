@@ -1,0 +1,11 @@
+setwd("C:/Users/ljiahao/Box Sync/Jiahao Liu Box Notes/Urine and Plasma project/03Data Analysis Results/New Result")
+load("2019.11.4.Rdata")
+
+dim(uData)
+dim(uTrait)
+
+uData[1:5,1:5]
+head(uTrait)
+
+
+
